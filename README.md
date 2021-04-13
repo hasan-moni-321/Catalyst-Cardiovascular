@@ -5,7 +5,7 @@
  It is a binary classification. The dataset is totally imbalance. Where cardio class have around 400 and non-cardio class have 2000 dataset. 
  
  
- ## Feture Selection
+ ## Feture Engineering(Selection)
  1. Outlier detecting and removing  
  2. Checking imbalance  
  3. Fixing some columns where integer and string mix. Full expression of data  
